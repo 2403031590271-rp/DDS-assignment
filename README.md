@@ -15,7 +15,7 @@ Manage a digital library with borrow/return functionality and undo support using
 2. Run: ./elibrary
 3. Use menu to manage books
 
-## Sample Output
+
 
 
 
@@ -34,7 +34,7 @@ Convert infix expressions to postfix and evaluate them using stack-based logic.
 2. Run: ./calculator
 3. Enter expressions like (3 + 4) * 2
 
-## Sample Output
+
 
 
 3. Hospital Patient Queue Manager 🏥
@@ -53,4 +53,4 @@ Manage emergency and regular patients using priority queues and estimate wait ti
 2. Run: ./hospital_queue
 3. Use menu to manage patients
 
-## Sample Output
+
