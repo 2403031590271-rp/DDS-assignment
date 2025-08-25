@@ -15,10 +15,6 @@ Manage a digital library with borrow/return functionality and undo support using
 2. Run: ./elibrary
 3. Use menu to manage books
 
-
-
-
-
 2. Expression Calculator 🧮
 
 ## Overview
@@ -33,9 +29,6 @@ Convert infix expressions to postfix and evaluate them using stack-based logic.
 1. Compile: g++ src/expression_calculator.cpp -o calculator
 2. Run: ./calculator
 3. Enter expressions like (3 + 4) * 2
-
-
-
 
 3. Hospital Patient Queue Manager 🏥
 
